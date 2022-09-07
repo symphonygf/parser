@@ -1,0 +1,6 @@
+192.168.32.1 - - [07/Sep/2022:15:58:54 +0000] "GET / HTTP/2.0" 404 16 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36"
+192.168.32.1 - - [07/Sep/2022:15:58:55 +0000] "GET /favicon.ico HTTP/2.0" 200 0 "https://parser.localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36"
+192.168.32.1 - - [07/Sep/2022:15:58:55 +0000] "GET /favicon.ico HTTP/2.0" 200 0 "https://parser.localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36"
+192.168.32.1 - - [07/Sep/2022:15:59:55 +0000] "GET / HTTP/2.0" 500 829616 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36"
+192.168.32.1 - - [07/Sep/2022:16:00:25 +0000] "GET / HTTP/2.0" 200 17587 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36"
+192.168.32.1 - - [07/Sep/2022:16:04:33 +0000] "GET / HTTP/2.0" 200 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.3.673 Yowser/2.5 Safari/537.36"
