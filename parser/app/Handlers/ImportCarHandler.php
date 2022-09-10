@@ -9,7 +9,6 @@ use App\Enums\Import;
 use App\Import\CarImportRow;
 use App\Import\ImportRowInterface;
 use Spatie\DataTransferObject\Exceptions\UnknownProperties;
-use Symfony\Component\DomCrawler\Crawler;
 
 final class ImportCarHandler extends AbstractImportFeedHandler
 {

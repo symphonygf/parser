@@ -9,7 +9,6 @@ use Illuminate\Support\Facades\Log;
 use Psr\Container\ContainerInterface;
 use Symfony\Component\HttpFoundation\File\File;
 use Symfony\Contracts\Service\ServiceSubscriberInterface;
-use Throwable;
 use Generator;
 
 abstract class AbstractImportHandler implements ImportHandlerInterface, ServiceSubscriberInterface
