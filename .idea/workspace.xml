@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba077120-5f59-4559-9a8b-954a8601bac2" name="Changes" comment="" />
+    <list default="true" id="ba077120-5f59-4559-9a8b-954a8601bac2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/parser/app/Builders/CarBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser/app/Builders/CarBuilderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser/app/Models/Car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser/app/Models/Feed.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/parser/app/Providers/AppServiceProvider.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -139,7 +152,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -161,6 +178,7 @@
       <workItem from="1662552466147" duration="873000" />
       <workItem from="1662553356739" duration="9000" />
       <workItem from="1662553412112" duration="209000" />
+      <workItem from="1662566713363" duration="1586000" />
     </task>
     <task id="LOCAL-00001" summary="Task-1 add skillet.">
       <created>1662553564521</created>
